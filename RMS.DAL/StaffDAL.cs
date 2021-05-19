@@ -11,51 +11,35 @@ namespace RMS.DAL
 {
     public class StaffDAL
     {
-        // Fatlum's connection
-        string connString = "";
-
-        // Rrezon's connection
-        // string connString = "";
-
-        // Dibran's connection
-        // string connString = "";
-
-        // Shpat's connection
-        // string connString = "";
-
-
         public DataTable GetStaffList()
         {
-            using(SqlConnection conn = new SqlConnection(connString))
+            using(DatabaseConn.conn = new SqlConnection(DatabaseConn.connString))
             {
-                SqlDataAdapter dataAdapter = new SqlDataAdapter("usp_GetStaffList", conn);
+                DatabaseConn.dataAdapter = new SqlDataAdapter("usp_GetStaffList", DatabaseConn.conn);
                 DataTable dataTable = new DataTable();
-                dataAdapter.Fill(dataTable);
+                DatabaseConn.dataAdapter.Fill(dataTable);
 
                 return dataTable;
-
-
-
             }
         }
 
         public void InsertStaff(Sherbyesi model)
         {
-            using(SqlConnection conn = new SqlConnection(connString))
+            using(DatabaseConn.conn = new SqlConnection(DatabaseConn.connString))
             {
-                SqlCommand command = new SqlCommand("usp_InsertSherbyesi", conn);
-                command.CommandType = CommandType.StoredProcedure;
+                DatabaseConn.command = new SqlCommand("usp_InsertSherbyesi", DatabaseConn.conn);
+                DatabaseConn.command.CommandType = CommandType.StoredProcedure;
 
-                command.Parameters.AddWithValue("@Emri",model.Emri);
-                command.Parameters.AddWithValue("@NrPersonal",model.NrPersonal);
-                command.Parameters.AddWithValue("@OrariIPunes",model.OrariIPunes);
-                command.Parameters.AddWithValue("@InsertBy",model.InsertBy);
-                command.Parameters.AddWithValue("@InsertDate",model.InsertDate);
+                DatabaseConn.command.Parameters.AddWithValue("@Emri",model.Emri);
+                DatabaseConn.command.Parameters.AddWithValue("@NrPersonal",model.NrPersonal);
+                DatabaseConn.command.Parameters.AddWithValue("@OrariIPunes",model.OrariIPunes);
+                DatabaseConn.command.Parameters.AddWithValue("@InsertBy",model.InsertBy);
+                DatabaseConn.command.Parameters.AddWithValue("@InsertDate",model.InsertDate);
                 //command.Parameters.AddWithValue("@LUD");
                 //command.Parameters.AddWithValue("@LUN");
                 //command.Parameters.AddWithValue("@LUB");
 
-                command.ExecuteNonQuery();
+                DatabaseConn.command.ExecuteNonQuery();
             }
         }
     }
