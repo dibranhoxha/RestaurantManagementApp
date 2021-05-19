@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RMS.BO\RMS.BO.csproj">
+      <Project>{47416703-ee0d-4a40-ac34-3832f56dd282}</Project>
+      <Name>RMS.BO</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
