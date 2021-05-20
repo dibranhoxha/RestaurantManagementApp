@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Form1.resources
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Properties.Resources.resources
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\RestaurantManagementApp.exe.config
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\RestaurantManagementApp.exe
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\RestaurantManagementApp.pdb
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\MetroSet UI.dll
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csproj.CopyComplete
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.exe
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.pdb
