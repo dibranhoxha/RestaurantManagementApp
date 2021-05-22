@@ -50,11 +50,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Format\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
+    <Compile Include="Format\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Format\PorosiaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Format\PorosiaForm.Designer.cs">
+      <DependentUpon>PorosiaForm.cs</DependentUpon>
     </Compile>
     <Compile Include="MenaxhimiIRestaurantitDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -75,8 +81,11 @@
     <Compile Include="Statistikat.Designer.cs">
       <DependentUpon>Statistikat.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Form1.resx">
+    <EmbeddedResource Include="Format\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Format\PorosiaForm.resx">
+      <DependentUpon>PorosiaForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
