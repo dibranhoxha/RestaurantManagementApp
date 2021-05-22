@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\bin\Debug\RMS.BLL.dll
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\bin\Debug\RMS.BLL.pdb
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\bin\Debug\RMS.BO.dll
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\bin\Debug\RMS.DAL.dll
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\bin\Debug\RMS.BO.pdb
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\bin\Debug\RMS.DAL.pdb
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.csproj.CopyComplete
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.dll
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.pdb

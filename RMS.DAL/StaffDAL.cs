@@ -23,16 +23,21 @@ namespace RMS.DAL
             }
         }
 
-        public void InsertStaff(Sherbyesi model)
+        public void InsertStaff(Staff model)
         {
             using(DatabaseConn.conn = new SqlConnection(DatabaseConn.connString))
             {
-                DatabaseConn.command = new SqlCommand("usp_InsertSherbyesi", DatabaseConn.conn);
-                DatabaseConn.command.CommandType = CommandType.StoredProcedure;
+                DatabaseConn.command = new SqlCommand("usp_InsertSherbyesi", DatabaseConn.conn)
+                {
+                    CommandType = CommandType.StoredProcedure 
+                };
 
                 DatabaseConn.command.Parameters.AddWithValue("@Emri",model.Emri);
                 DatabaseConn.command.Parameters.AddWithValue("@NrPersonal",model.NrPersonal);
+                DatabaseConn.command.Parameters.AddWithValue("@Datelindja",model.Datelindja);
                 DatabaseConn.command.Parameters.AddWithValue("@OrariIPunes",model.OrariIPunes);
+                DatabaseConn.command.Parameters.AddWithValue("@Roli",model.Roli);
+                DatabaseConn.command.Parameters.AddWithValue("@Shitjet",model.Shitjet);
                 DatabaseConn.command.Parameters.AddWithValue("@InsertBy",model.InsertBy);
                 DatabaseConn.command.Parameters.AddWithValue("@InsertDate",model.InsertDate);
                 //command.Parameters.AddWithValue("@LUD");
@@ -42,5 +47,7 @@ namespace RMS.DAL
                 DatabaseConn.command.ExecuteNonQuery();
             }
         }
+
+
     }
 }

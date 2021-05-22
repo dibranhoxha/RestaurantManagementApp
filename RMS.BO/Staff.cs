@@ -6,12 +6,15 @@ using System.Threading.Tasks;
 
 namespace RMS.BO
 {
-    public class Sherbyesi
+    public class Staff
     {
-        public int SherbyesiID { get; set; }
+        public int StaffID { get; set; }
         public string Emri { get; set; }
         public int NrPersonal { get; set; }
+        public DateTime Datelindja { get; set; }
         public DateTime OrariIPunes { get; set; }
+        public int Roli { get; set; }
+        public int Shitjet { get; set; }
         public int InsertBy { get; set; }
         public DateTime InsertDate { get; set; }
         public DateTime LUD { get; set; }

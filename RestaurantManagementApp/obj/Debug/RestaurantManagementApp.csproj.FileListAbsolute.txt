@@ -10,3 +10,11 @@ C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\b
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csproj.CopyComplete
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.exe
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.pdb
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\RMS.BLL.dll
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\RMS.BO.dll
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\RMS.DAL.dll
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\RMS.BLL.pdb
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\RMS.BO.pdb
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\RMS.DAL.pdb
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Staff.StaffList.resources
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Statistikat.resources
