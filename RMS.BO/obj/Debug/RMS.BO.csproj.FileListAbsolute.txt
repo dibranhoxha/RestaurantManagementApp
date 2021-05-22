@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BO\bin\Debug\RMS.BO.dll
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BO\bin\Debug\RMS.BO.pdb
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BO\obj\Debug\RMS.BO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BO\obj\Debug\RMS.BO.dll
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BO\obj\Debug\RMS.BO.pdb
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BO\obj\Debug\RMS.BO.csprojAssemblyReference.cache

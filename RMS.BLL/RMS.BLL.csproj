@@ -41,8 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="StaffBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RMS.BO\RMS.BO.csproj">
+      <Project>{d46797f8-1ada-42f3-8f6e-ab67220bf568}</Project>
+      <Name>RMS.BO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RMS.DAL\RMS.DAL.csproj">
+      <Project>{e882bedc-7c2c-4f46-9142-d7faf9cd85ee}</Project>
+      <Name>RMS.DAL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
