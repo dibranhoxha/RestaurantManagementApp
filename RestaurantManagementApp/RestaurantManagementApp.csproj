@@ -62,6 +62,18 @@
     <Compile Include="Format\PorosiaForm.Designer.cs">
       <DependentUpon>PorosiaForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Format\Produktet\AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Format\Produktet\AddProduct.Designer.cs">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Format\Produktet\Produktet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Format\Produktet\Produktet.Designer.cs">
+      <DependentUpon>Produktet.cs</DependentUpon>
+    </Compile>
     <Compile Include="MenaxhimiIRestaurantitDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -86,6 +98,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Format\PorosiaForm.resx">
       <DependentUpon>PorosiaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Format\Produktet\AddProduct.resx">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Format\Produktet\Produktet.resx">
+      <DependentUpon>Produktet.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

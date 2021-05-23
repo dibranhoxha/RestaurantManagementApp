@@ -29,20 +29,20 @@ namespace RestaurantManagementApp
         /// </summary>
         private void InitializeComponent()
         {
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.dgvStatistikat = new System.Windows.Forms.DataGridView();
             this.btnProduktetMTSH = new MetroSet_UI.Controls.MetroSetButton();
             this.btnSherbyesiMMSH = new MetroSet_UI.Controls.MetroSetButton();
             this.metroSetButton3 = new MetroSet_UI.Controls.MetroSetButton();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvStatistikat)).BeginInit();
             this.SuspendLayout();
             // 
-            // dataGridView1
+            // dgvStatistikat
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(21, 82);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(753, 289);
-            this.dataGridView1.TabIndex = 0;
+            this.dgvStatistikat.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvStatistikat.Location = new System.Drawing.Point(21, 82);
+            this.dgvStatistikat.Name = "dgvStatistikat";
+            this.dgvStatistikat.Size = new System.Drawing.Size(753, 289);
+            this.dgvStatistikat.TabIndex = 0;
             // 
             // btnProduktetMTSH
             // 
@@ -69,6 +69,7 @@ namespace RestaurantManagementApp
             this.btnProduktetMTSH.Text = "Produktet me te sherbyera";
             this.btnProduktetMTSH.ThemeAuthor = "Narwin";
             this.btnProduktetMTSH.ThemeName = "MetroLite";
+            this.btnProduktetMTSH.Click += new System.EventHandler(this.btnProduktetMTSH_Click);
             // 
             // btnSherbyesiMMSH
             // 
@@ -131,17 +132,17 @@ namespace RestaurantManagementApp
             this.Controls.Add(this.metroSetButton3);
             this.Controls.Add(this.btnSherbyesiMMSH);
             this.Controls.Add(this.btnProduktetMTSH);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.dgvStatistikat);
             this.Name = "Statistikat";
             this.Text = "Statistikat";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvStatistikat)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dgvStatistikat;
         private MetroSet_UI.Controls.MetroSetButton btnProduktetMTSH;
         private MetroSet_UI.Controls.MetroSetButton btnSherbyesiMMSH;
         private MetroSet_UI.Controls.MetroSetButton metroSetButton3;

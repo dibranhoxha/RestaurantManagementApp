@@ -20,9 +20,9 @@ namespace RestaurantManagementApp.Staff
 
         private void StaffList_Load(object sender, EventArgs e)
         {
-            StaffBLL staffBLL = new StaffBLL();
-            DataTable list = staffBLL.ShowStaff();
-            dgvStaffList.DataSource = list;
+            //StaffBLL staffBLL = new StaffBLL();
+            //DataTable list = staffBLL.ShowStaff();
+            //dgvStaffList.DataSource = list;
         }
     }
 }

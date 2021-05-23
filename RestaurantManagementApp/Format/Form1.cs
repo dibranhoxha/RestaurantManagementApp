@@ -23,5 +23,17 @@ namespace RestaurantManagementApp
 			StaffList staffListForm = new StaffList();
 			staffListForm.Show();
         }
+
+        private void btnStatistikat_Click(object sender, EventArgs e)
+        {
+			Statistikat statistikatForm = new Statistikat();
+			statistikatForm.Show();
+        }
+
+        private void btnProduktet_Click(object sender, EventArgs e)
+        {
+            Format.Produktet.Produktet produktetForm = new Format.Produktet.Produktet();
+            produktetForm.Show();
+        }
     }
 }

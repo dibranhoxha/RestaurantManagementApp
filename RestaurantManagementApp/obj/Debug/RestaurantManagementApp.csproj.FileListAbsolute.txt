@@ -18,3 +18,6 @@ C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\b
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\RMS.DAL.pdb
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Staff.StaffList.resources
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Statistikat.resources
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Forms.PorosiaForm.resources
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Format.Produktet.AddProduct.resources
+C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Format.Produktet.Produktet.resources

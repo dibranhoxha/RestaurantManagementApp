@@ -22,11 +22,7 @@ namespace RMS.BLL
             return staffDAL.GetStaffList();
         }
 
-        public void AddStaff(Staff model)
-        {
-            staffDAL.InsertStaff(model);
-        }
-
+        
         public void GetStaffMVP()
         {
 

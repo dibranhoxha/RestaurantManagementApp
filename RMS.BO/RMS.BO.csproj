@@ -46,7 +46,6 @@
     <Compile Include="Produkti.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rezervimi.cs" />
-    <Compile Include="Staff.cs" />
     <Compile Include="Tavolina.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
