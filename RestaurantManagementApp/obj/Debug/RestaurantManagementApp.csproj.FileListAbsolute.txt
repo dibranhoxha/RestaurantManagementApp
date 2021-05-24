@@ -22,6 +22,7 @@ C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\o
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Format.Produktet.Produktet.resources
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Format.Tavolinat.AddTavolina.resources
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Format.Tavolinat.Tavolinat.resources
+<<<<<<< HEAD
 C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csprojAssemblyReference.cache
 C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Form1.resources
 C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Forms.PorosiaForm.resources
@@ -48,3 +49,30 @@ C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RestaurantManageme
 C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\RMS.BO.pdb
 C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RestaurantManagementApp\bin\Debug\RMS.DAL.pdb
 C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csproj.CopyComplete
+=======
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\bin\Debug\RestaurantManagementApp.exe.config
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\bin\Debug\RestaurantManagementApp.exe
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\bin\Debug\RestaurantManagementApp.pdb
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\bin\Debug\MetroSet UI.dll
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\bin\Debug\RMS.BLL.dll
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\bin\Debug\RMS.BO.dll
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\bin\Debug\RMS.DAL.dll
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\bin\Debug\RMS.BLL.pdb
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\bin\Debug\RMS.BO.pdb
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\bin\Debug\RMS.DAL.pdb
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csprojAssemblyReference.cache
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Form1.resources
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Format.Produktet.AddProduct.resources
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Format.Produktet.Produktet.resources
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Format.Tavolinat.AddTavolina.resources
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Format.Tavolinat.Tavolinat.resources
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Properties.Resources.resources
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Statistikat.resources
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csproj.GenerateResource.cache
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csproj.CoreCompileInputs.cache
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csproj.CopyComplete
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.exe
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.pdb
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Format.Porosite.Porosia.resources
+D:\Riinvest Ligjerata\VITI II\Semestri II\Projekti TI 1\Projekti\RMA-APP\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Format.Porosite.ProduktetPerPorosi.resources
+>>>>>>> 4983142e25fe093a83eafc67f2be1f2456f72c2e

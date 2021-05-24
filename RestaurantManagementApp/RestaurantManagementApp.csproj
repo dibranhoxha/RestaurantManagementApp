@@ -56,11 +56,17 @@
     <Compile Include="Format\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Format\PorosiaForm.cs">
+    <Compile Include="Format\Porosite\Porosia.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Format\PorosiaForm.Designer.cs">
-      <DependentUpon>PorosiaForm.cs</DependentUpon>
+    <Compile Include="Format\Porosite\Porosia.Designer.cs">
+      <DependentUpon>Porosia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Format\Porosite\ProduktetPerPorosi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Format\Porosite\ProduktetPerPorosi.Designer.cs">
+      <DependentUpon>ProduktetPerPorosi.cs</DependentUpon>
     </Compile>
     <Compile Include="Format\Produktet\AddProduct.cs">
       <SubType>Form</SubType>
@@ -114,8 +120,11 @@
     <EmbeddedResource Include="Format\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Format\PorosiaForm.resx">
-      <DependentUpon>PorosiaForm.cs</DependentUpon>
+    <EmbeddedResource Include="Format\Porosite\Porosia.resx">
+      <DependentUpon>Porosia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Format\Porosite\ProduktetPerPorosi.resx">
+      <DependentUpon>ProduktetPerPorosi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Format\Produktet\AddProduct.resx">
       <DependentUpon>AddProduct.cs</DependentUpon>

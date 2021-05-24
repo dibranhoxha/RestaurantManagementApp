@@ -7,7 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+<<<<<<< HEAD
 using MenaxhimiRestorantit;
+=======
+using RestaurantManagementApp.Format.Produktet;
+using RestaurantManagementApp.Format.Tavolinat;
+using RestaurantManagementApp.Format.Porosite;
+>>>>>>> 4983142e25fe093a83eafc67f2be1f2456f72c2e
 
 namespace RestaurantManagementApp
 {
@@ -28,20 +34,29 @@ namespace RestaurantManagementApp
 
         private void btnProduktet_Click(object sender, EventArgs e)
         {
-            Format.Produktet.Produktet produktetForm = new Format.Produktet.Produktet();
+            Produktet produktetForm = new Produktet();
             produktetForm.Show();
         }
 
         private void btnTavolinat_Click(object sender, EventArgs e)
         {
-            Format.Tavolinat.Tavolinat tavolinatForm = new Format.Tavolinat.Tavolinat();
+            Tavolinat tavolinatForm = new Tavolinat();
             tavolinatForm.Show();
         }
 
+<<<<<<< HEAD
         private void bttnKycu_Click(object sender, EventArgs e)
         {
             frmKyçja Kyçja = new frmKyçja();
             Kyçja.Show();
         }
     }
+=======
+		private void btnPorosia_Click(object sender, EventArgs e)
+		{
+            Porosia porosiaForm = new Porosia();
+            porosiaForm.Show();
+        }
+	}
+>>>>>>> 4983142e25fe093a83eafc67f2be1f2456f72c2e
 }
