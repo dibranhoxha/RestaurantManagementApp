@@ -9,3 +9,14 @@ C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.csproj.CopyComplete
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.dll
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.pdb
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BLL\bin\Debug\RMS.BLL.dll
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BLL\bin\Debug\RMS.BLL.pdb
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BLL\bin\Debug\RMS.BO.dll
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BLL\bin\Debug\RMS.DAL.dll
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BLL\bin\Debug\RMS.BO.pdb
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BLL\bin\Debug\RMS.DAL.pdb
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.csprojAssemblyReference.cache
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.csproj.CopyComplete
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.dll
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BLL\obj\Debug\RMS.BLL.pdb

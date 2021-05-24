@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ListaEProdukteve.cs" />
+    <Compile Include="Perdoruesi.cs" />
+    <Compile Include="PerdoruesiAktiv.cs" />
     <Compile Include="Porosia.cs" />
     <Compile Include="Produkti.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

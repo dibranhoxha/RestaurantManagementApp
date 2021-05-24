@@ -68,6 +68,18 @@
     <Compile Include="Format\Produktet\AddProduct.Designer.cs">
       <DependentUpon>AddProduct.cs</DependentUpon>
     </Compile>
+    <Compile Include="Format\Perdoruesit\frmKyçja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Format\Perdoruesit\frmKyçja.designer.cs">
+      <DependentUpon>frmKyçja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Format\Perdoruesit\frmRegjistrimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Format\Perdoruesit\frmRegjistrimi.designer.cs">
+      <DependentUpon>frmRegjistrimi.cs</DependentUpon>
+    </Compile>
     <Compile Include="Format\Produktet\Produktet.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -107,6 +119,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Format\Produktet\AddProduct.resx">
       <DependentUpon>AddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Format\Perdoruesit\frmKyçja.resx">
+      <DependentUpon>frmKyçja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Format\Perdoruesit\frmRegjistrimi.resx">
+      <DependentUpon>frmRegjistrimi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Format\Produktet\Produktet.resx">
       <DependentUpon>Produktet.cs</DependentUpon>
@@ -163,6 +181,10 @@
       <Project>{d46797f8-1ada-42f3-8f6e-ab67220bf568}</Project>
       <Name>RMS.BO</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\2750635_gray-circle-login-user-icon-png-transparent-png.jpg" />
+    <Content Include="Resources\New Project%283%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

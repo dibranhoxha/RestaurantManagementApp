@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MenaxhimiRestorantit;
 
 namespace RestaurantManagementApp
 {
@@ -35,6 +36,12 @@ namespace RestaurantManagementApp
         {
             Format.Tavolinat.Tavolinat tavolinatForm = new Format.Tavolinat.Tavolinat();
             tavolinatForm.Show();
+        }
+
+        private void bttnKycu_Click(object sender, EventArgs e)
+        {
+            frmKyçja Kyçja = new frmKyçja();
+            Kyçja.Show();
         }
     }
 }

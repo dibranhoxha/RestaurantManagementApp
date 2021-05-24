@@ -34,6 +34,7 @@ namespace RestaurantManagementApp
             this.btnProduktet = new MetroSet_UI.Controls.MetroSetButton();
             this.btnTavolinat = new MetroSet_UI.Controls.MetroSetButton();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
+            this.bttnKycu = new System.Windows.Forms.Button();
             this.flowLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -152,8 +153,18 @@ namespace RestaurantManagementApp
             this.flowLayoutPanel1.Controls.Add(this.btnTavolinat);
             this.flowLayoutPanel1.Location = new System.Drawing.Point(12, 12);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(776, 426);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(776, 363);
             this.flowLayoutPanel1.TabIndex = 4;
+            // 
+            // bttnKycu
+            // 
+            this.bttnKycu.Location = new System.Drawing.Point(570, 381);
+            this.bttnKycu.Name = "bttnKycu";
+            this.bttnKycu.Size = new System.Drawing.Size(138, 59);
+            this.bttnKycu.TabIndex = 4;
+            this.bttnKycu.Text = "KYCU";
+            this.bttnKycu.UseVisualStyleBackColor = true;
+            this.bttnKycu.Click += new System.EventHandler(this.bttnKycu_Click);
             // 
             // Form1
             // 
@@ -161,6 +172,7 @@ namespace RestaurantManagementApp
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.flowLayoutPanel1);
+            this.Controls.Add(this.bttnKycu);
             this.Name = "Form1";
             this.Text = "Form1";
             this.flowLayoutPanel1.ResumeLayout(false);
@@ -175,6 +187,7 @@ namespace RestaurantManagementApp
         private MetroSet_UI.Controls.MetroSetButton btnProduktet;
         private MetroSet_UI.Controls.MetroSetButton btnTavolinat;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
+        private System.Windows.Forms.Button bttnKycu;
     }
 }
 

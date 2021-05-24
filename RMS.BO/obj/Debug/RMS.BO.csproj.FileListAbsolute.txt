@@ -4,3 +4,9 @@ C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BO\obj\Debug\RMS.BO.c
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BO\obj\Debug\RMS.BO.dll
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BO\obj\Debug\RMS.BO.pdb
 C:\Users\DELL\Desktop\Projects\RestaurantManagementApp\RMS.BO\obj\Debug\RMS.BO.csprojAssemblyReference.cache
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BO\bin\Debug\RMS.BO.dll
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BO\bin\Debug\RMS.BO.pdb
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BO\obj\Debug\RMS.BO.csprojAssemblyReference.cache
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BO\obj\Debug\RMS.BO.csproj.CoreCompileInputs.cache
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BO\obj\Debug\RMS.BO.dll
+C:\Users\Rra\Source\Repos\dibranhoxha\RestaurantManagementApp\RMS.BO\obj\Debug\RMS.BO.pdb
