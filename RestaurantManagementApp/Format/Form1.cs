@@ -7,6 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using RestaurantManagementApp.Format.Produktet;
+using RestaurantManagementApp.Format.Tavolinat;
+using RestaurantManagementApp.Format.Porosite;
 
 namespace RestaurantManagementApp
 {
@@ -27,14 +30,20 @@ namespace RestaurantManagementApp
 
         private void btnProduktet_Click(object sender, EventArgs e)
         {
-            Format.Produktet.Produktet produktetForm = new Format.Produktet.Produktet();
+            Produktet produktetForm = new Produktet();
             produktetForm.Show();
         }
 
         private void btnTavolinat_Click(object sender, EventArgs e)
         {
-            Format.Tavolinat.Tavolinat tavolinatForm = new Format.Tavolinat.Tavolinat();
+            Tavolinat tavolinatForm = new Tavolinat();
             tavolinatForm.Show();
         }
-    }
+
+		private void btnPorosia_Click(object sender, EventArgs e)
+		{
+            Porosia porosiaForm = new Porosia();
+            porosiaForm.Show();
+        }
+	}
 }
