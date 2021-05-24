@@ -42,9 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ProduktetBLL.cs" />
-    <Compile Include="StaffBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StatistikatBLL.cs" />
+    <Compile Include="TavolinatBLL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\RMS.BO\RMS.BO.csproj">

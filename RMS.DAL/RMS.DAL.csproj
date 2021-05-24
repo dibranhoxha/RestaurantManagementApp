@@ -65,8 +65,8 @@
     <Compile Include="DatabaseConn.cs" />
     <Compile Include="ProduktetDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StaffDAL.cs" />
     <Compile Include="StatistikatDAL.cs" />
+    <Compile Include="TavolinatDAL.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

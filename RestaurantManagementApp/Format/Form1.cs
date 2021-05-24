@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using RestaurantManagementApp.Staff;
 
 namespace RestaurantManagementApp
 {
@@ -18,11 +17,7 @@ namespace RestaurantManagementApp
 			InitializeComponent();
 		}
 
-        private void btnStafi_Click(object sender, EventArgs e)
-        {
-			StaffList staffListForm = new StaffList();
-			staffListForm.Show();
-        }
+        
 
         private void btnStatistikat_Click(object sender, EventArgs e)
         {
@@ -34,6 +29,12 @@ namespace RestaurantManagementApp
         {
             Format.Produktet.Produktet produktetForm = new Format.Produktet.Produktet();
             produktetForm.Show();
+        }
+
+        private void btnTavolinat_Click(object sender, EventArgs e)
+        {
+            Format.Tavolinat.Tavolinat tavolinatForm = new Format.Tavolinat.Tavolinat();
+            tavolinatForm.Show();
         }
     }
 }

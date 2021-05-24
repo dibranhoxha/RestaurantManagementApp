@@ -74,6 +74,18 @@
     <Compile Include="Format\Produktet\Produktet.Designer.cs">
       <DependentUpon>Produktet.cs</DependentUpon>
     </Compile>
+    <Compile Include="Format\Tavolinat\AddTavolina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Format\Tavolinat\AddTavolina.Designer.cs">
+      <DependentUpon>AddTavolina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Format\Tavolinat\Tavolinat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Format\Tavolinat\Tavolinat.Designer.cs">
+      <DependentUpon>Tavolinat.cs</DependentUpon>
+    </Compile>
     <Compile Include="MenaxhimiIRestaurantitDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -81,12 +93,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Staff\StaffList.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Staff\StaffList.Designer.cs">
-      <DependentUpon>StaffList.cs</DependentUpon>
-    </Compile>
     <Compile Include="Statistikat.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -105,6 +111,12 @@
     <EmbeddedResource Include="Format\Produktet\Produktet.resx">
       <DependentUpon>Produktet.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Format\Tavolinat\AddTavolina.resx">
+      <DependentUpon>AddTavolina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Format\Tavolinat\Tavolinat.resx">
+      <DependentUpon>Tavolinat.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -114,9 +126,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Staff\StaffList.resx">
-      <DependentUpon>StaffList.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Statistikat.resx">
       <DependentUpon>Statistikat.cs</DependentUpon>
     </EmbeddedResource>
